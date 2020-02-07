@@ -9,7 +9,13 @@ package versiones;
  *
  * @author dam
  */
-public class Clase2 {
-    float por;
-    float comi;
+public class Versiones {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+       
+    }
+    
 }
